@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_refresh.xml" value="0.2055" />
+        <entry key="app/src/main/res/drawable-v24/ic_temp_icon_without_circle.xml" value="0.2055" />
+        <entry key="app/src/main/res/drawable-v24/outline_location_on_24.xml" value="0.2055" />
+        <entry key="app/src/main/res/drawable/outline_air_24.xml" value="0.2055" />
+        <entry key="app/src/main/res/drawable/outline_thermostat_24.xml" value="0.2055" />
+        <entry key="app/src/main/res/drawable/shape_widget_small.xml" value="0.102" />
+        <entry key="app/src/main/res/layout/initial_widget_layout.xml" value="0.38813405797101447" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (2)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

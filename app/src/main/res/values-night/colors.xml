@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="icon_tint">@color/gray200</color>
+    <color name="widgetBackground">@color/gray800</color>
+    <color name="onPrimary">@color/white</color>
+    <color name="buttonBackground">@color/gray200</color>
+    <color name="buttonText">@color/gray700</color>
+</resources>

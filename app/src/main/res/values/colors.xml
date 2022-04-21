@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray200">#ffF6F7F9</color>
+    <color name="gray300">#ffDDE3E9</color>
+    <color name="gray400">#ffC2CBD6</color>
+    <color name="gray500">#ff94A5B8</color>
+    <color name="gray600">#ff5C718A</color>
+    <color name="gray700">#ff47586B</color>
+    <color name="gray800">#ff29323D</color>
+    <color name="skyBlue200">#ffE5F1FF</color>
+    <color name="skyBlue300">#ff99C9FF</color>
+    <color name="skyBlue400">#ff57A5FF</color>
+    <color name="skyBlue500">#ff0078FF</color>
+    <color name="skyBlue600">#ff005FCC</color>
+    <color name="skyBlue700">#ff004799</color>
+    <color name="skyBlue800">#ff103D70</color>
+
+    <color name="white">#ffffffff</color>
+
+    <color name="icon_tint">@color/gray700</color>
+    <color name="widgetBackground">@color/white</color>
+    <color name="onPrimary">@color/gray700</color>
+    <color name="buttonBackground">@color/skyBlue200</color>
+    <color name="buttonText">@color/skyBlue800</color>
+</resources>
