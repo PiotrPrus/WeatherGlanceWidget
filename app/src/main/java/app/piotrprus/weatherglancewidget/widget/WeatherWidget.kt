@@ -175,7 +175,7 @@ class WeatherWidget : GlanceAppWidget() {
 }
 
 class WidgetRefreshAction : ActionCallback {
-    override suspend fun onRun(context: Context, glanceId: GlanceId, parameters: ActionParameters) {
+    override suspend fun onAction(context: Context, glanceId: GlanceId, parameters: ActionParameters) {
         val prefs = WeatherWidget().getAppWidgetState<Preferences>(context, glanceId)
         val location =
             WidgetStateHelper.getState(prefs).let { it.data.latitude to it.data.longitude }

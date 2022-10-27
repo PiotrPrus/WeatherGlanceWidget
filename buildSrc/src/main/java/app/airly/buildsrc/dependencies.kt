@@ -1,7 +1,7 @@
 object Versions {
     const val kotlin = "1.6.10"
     const val androidMinSdk = 23
-    const val androidCompileSdk = 31
+    const val androidCompileSdk = 33
     const val androidTargetSdk = androidCompileSdk
     const val compose = "1.1.1"
 }
@@ -115,7 +115,7 @@ object Libs {
         }
 
         object Glance {
-            private const val version = "1.0.0-alpha03"
+            private const val version = "1.0.0-alpha05"
             const val glance = "androidx.glance:glance:$version"
             const val appWidget = "androidx.glance:glance-appwidget:$version"
         }
