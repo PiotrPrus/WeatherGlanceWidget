@@ -51,6 +51,7 @@ android {
             excludes += setOf("META-INF/*.kotlin_module")
         }
     }
+    namespace = "app.piotrprus.weatherglancewidget"
 }
 
 dependencies {
