@@ -44,7 +44,7 @@ android {
         compose = true
     }
     composeOptions {
-        kotlinCompilerExtensionVersion = Versions.compose
+        kotlinCompilerExtensionVersion = "1.4.3"
     }
     packagingOptions {
         resources {
@@ -56,6 +56,7 @@ android {
 
 dependencies {
     implementation(Libs.Kotlin.stdlib)
+    implementation(platform(Libs.AndroidX.Compose.bom))
     implementation(Libs.AndroidX.Compose.runtime)
     implementation(Libs.AndroidX.Compose.material)
     implementation(Libs.AndroidX.Compose.preview)
